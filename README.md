@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently studying at ... PTIT
-- 🌱 I’m currently learning ... ReactJS
+- 🌱 I’m currently learning ... ReactJS, Django, Jsp
 - 👯 I’m looking to collaborate on ... ReactJS
 - 🤔 I’m looking for help with ... NodeJS
 
