@@ -1,6 +1,6 @@
 ### Hello Hello 👋
-<a href=https://www.facebook.com/npt3112001/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a>
-
+<a href=https://www.facebook.com/npt3112001/> <img src="https://img.shields.io/badge/fb-facebook-blue"> </a>
+<img src="https://img.shields.io/github/followers/nguyenphuctinh?style=social">
 - 🔭 I’m currently studying at ... PTIT
 - 🌱 I’m currently learning ... ReactJS, Django, Jsp
 - 👯 I’m looking to collaborate on ... ReactJS
