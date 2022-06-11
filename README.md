@@ -3,9 +3,9 @@
 <a href=https://github.com/nguyenphuctinh  > <img src="https://img.shields.io/github/followers/nguyenphuctinh?style=social"> </a>
 
 - 🔭 I’m currently studying at ... PTIT
-- 🌱 I’m currently learning ... ReactJS, Django, Jsp
+- 🌱 I’m currently learning ... ReactJS, Nodejs, Django, Spring
 - 👯 I’m looking to collaborate on ... ReactJS
-- 🤔 I’m looking for help with ... NodeJS
+- 🤔 I’m looking for help with ... NodeJS, Spring
 
 
 ![giphy (2)](https://user-images.githubusercontent.com/73649278/127175471-106c365d-f2ee-44df-915e-c386cc6e886c.gif)
